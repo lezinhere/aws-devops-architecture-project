@@ -1,7 +1,7 @@
 \# AWS DevOps Architecture Project
 
 
-
+Acces it on https://docs.google.com/document/d/1Al5g832eYAlT2Tb1Uq0Sai-nxP2twyR78UVxqy6TyOo/edit?usp=sharing
 \## Overview
 
 Production-style AWS infrastructure implementation covering networking, compute, database, security, and monitoring.
