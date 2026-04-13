@@ -3,6 +3,7 @@
 
 Acces it on https://docs.google.com/document/d/1Al5g832eYAlT2Tb1Uq0Sai-nxP2twyR78UVxqy6TyOo/edit?usp=sharing
 
+<img width="696" height="641" alt="image" src="https://github.com/user-attachments/assets/9df09aff-387a-4cb1-b188-1ea698071456" />
 
 \## Overview
 
